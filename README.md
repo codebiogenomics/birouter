@@ -1,4 +1,4 @@
-# bidirectional-cluster
+# birouter
 
 ![](https://github.com/IBCHgenomic/eVaiutilities/blob/main/logo.png)
 
